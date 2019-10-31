@@ -11,4 +11,4 @@
 * mapping and filtering
 * vue transitions
 
-Live versions here [https://abdiawali.github.io/lab8](https://abdiawali.github.io/lab8)
+Live versions here [https://github.com/abdiawali/lab8](https://github.com/abdiawali/lab8)
