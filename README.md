@@ -1,4 +1,4 @@
-# lab8
+# Week 2 Vue.js examples 
 
 * v-for 
 * forms - checkboxes
