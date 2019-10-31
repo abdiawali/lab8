@@ -11,4 +11,4 @@
 * mapping and filtering
 * vue transitions
 
-Live versions here [https://claraj.github.io/vue-week-2-examples](https://claraj.github.io/vue-week-2-examples)
+Live versions here [https://abdiawali.github.io/lab8](https://abdiawali.github.io/lab8)
